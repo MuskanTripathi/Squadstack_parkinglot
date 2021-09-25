@@ -10,7 +10,8 @@ Due to government regulation, the system should provide us with the ability to f
 Vehicle Registration numbers for all cars which are parked by the driver of a certain age,
 Slot number in which a car with a given vehicle registration plate is parked. 
 Slot numbers of all slots where cars of drivers of a particular age are parked.
-We interact with the system via a file-based input system, i.e. it should accept a filename as an input. The file referenced by filename will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
+We get the input by reading input.txt directly (you’ll have to create it in your environment) .The file will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
+
 
 ### Input:- [inputs.txt]
 
@@ -36,19 +37,19 @@ Solution to Parking Lot system Design problem statement:-
   2. Types of vehicles that can be parked, separate spaces for each type of vehicle.
   3. Number of Entry and exit points.
 
-### [Output:-][Link] 
-![Output]code o/p
+### [Output:-][Link](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/output.PNG) 
+![Output](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/outputWithCode.PNG)
 
 ### How To Run on Your Local Machine
 
 using Python 3 for the implementation 
 
-  1. Download/git clone the [repo] [link]
+  1. Download/git clone the [repo] [link](https://github.com/MuskanTripathi/Squadstack_parkinglot.git)
   2. python src/parking.py
   2. To Run all the input put command in terminal $ ./squadstack_parking_lot_bash inputs.txt
   3. To Run Indivisual commands python src/parking_lot.py
  
  [Required Link 1] er diagram full
- [Required Link 2] code with output
+ [Required Link 2](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/outputWithCode.PNG)
  
  Thanks :)
