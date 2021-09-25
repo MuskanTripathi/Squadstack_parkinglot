@@ -53,4 +53,4 @@ using Python 3 for the implementation
  [Required Link 2](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/outputWithCode.PNG)
  
  Thanks :)
- Like the code?💯:❗❓;
+ Like the code?🤩:😵;
