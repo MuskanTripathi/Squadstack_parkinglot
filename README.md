@@ -44,7 +44,7 @@ Solution to Parking Lot system Design problem statement:-
 
 using Python 3 for the implementation 
 
-  1. Download/git clone the [repo] [link](https://github.com/MuskanTripathi/Squadstack_parkinglot.git)
+  1. Download/git clone the [repo](https://github.com/MuskanTripathi/Squadstack_parkinglot.git) [link](https://github.com/MuskanTripathi/Squadstack_parkinglot.git)
   2. python src/parking.py
   2. To Run all the input put command in terminal $ ./squadstack_parking_lot_bash inputs.txt
   3. To Run Indivisual commands python src/parking_lot.py
@@ -53,3 +53,4 @@ using Python 3 for the implementation
  [Required Link 2](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/outputWithCode.PNG)
  
  Thanks :)
+ Like the code?💯:❗❓;
