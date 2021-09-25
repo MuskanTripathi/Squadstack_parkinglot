@@ -49,7 +49,7 @@ using Python 3 for the implementation
   2. To Run all the input put command in terminal $ ./squadstack_parking_lot_bash inputs.txt
   3. To Run Indivisual commands python src/parking_lot.py
  
- [Required Link 1] er diagram full
+ [Required Link 1](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/er_diagram.png)
  [Required Link 2](https://github.com/MuskanTripathi/Squadstack_parkinglot/blob/master/outputWithCode.PNG)
  
  Thanks :)
