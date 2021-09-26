@@ -1,0 +1,4 @@
+#language = "python3"
+#run = "python src/parking.py"
+language = "bash"
+run = "./squadstack_parking_lot_bash inputs.txt"
